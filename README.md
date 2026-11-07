@@ -1,3 +1,6 @@
+for those running 51.1 see https://github.com/ryth9419-jpg/livewallpaper/releases/tag/Gnome51.1
+
+
 To install on bazzite save live-background.zip into downloads folder, open terminal and run
 
 
