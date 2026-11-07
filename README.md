@@ -1,4 +1,4 @@
-To install on bazzite run
+To install on bazzite save live-background.zip into downloads folder, open terminal and run
 
 
 cd ~/Downloads
@@ -8,4 +8,4 @@ cd live-background
 chmod +x install.sh
 ./install.sh
 
-Enable via extension manager or via gnome-extensions enable live-background@bazzite.local
+log out then enable via extension manager or via gnome-extensions enable live-background@bazzite.local
